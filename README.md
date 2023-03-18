@@ -4,7 +4,7 @@
 ### Jupyter Lab Notebook
 
 ```py
-!apt install -y libglib2.0-0
+!apt install -y libgl1 libglib2.0-0
 !mkdir /content
 %cd /content
 !apt update
