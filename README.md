@@ -4,7 +4,7 @@
 ### Template
 https://runpod.io/gsc?template=fvddsynfnn&ref=iqi9iy8y
 
-### Tutorial
+### Tutorial Video
 https://www.youtube.com/watch?v=STecUG4RBxM
 
 ### Jupyter Lab Notebook
