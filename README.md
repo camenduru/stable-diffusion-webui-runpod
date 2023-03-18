@@ -5,6 +5,7 @@
 https://runpod.io/gsc?template=fvddsynfnn&ref=iqi9iy8y
 
 ### Tutorial
+https://www.youtube.com/watch?v=STecUG4RBxM
 
 ### Jupyter Lab Notebook
 
